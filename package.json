@@ -16,7 +16,7 @@
     "cli-ux": "^5.6.3",
     "deep-extend": "^0.6.0",
     "fs-extra": "^10.0.0",
-    "inquirer": "^8.1.0",
+    "inquirer": "^8.2.0",
     "js-yaml": "^4.1.0",
     "json-templates": "^4.1.0",
     "lodash": "^4.17.21",
